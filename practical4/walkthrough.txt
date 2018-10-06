@@ -1,0 +1,1 @@
+Created script to split hash file based on each of the six hash types
