@@ -1,0 +1,2 @@
+sed -i 's/:/ /g' filename.txt
+cat stufftoappend.txt >> filetoappendto.txt
